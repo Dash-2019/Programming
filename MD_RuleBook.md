@@ -3,6 +3,7 @@ Markdown記法 チートシート
 
 https://qiita.com/Qiita/items/c686397e4a0f4f11683d
 
+changed
 
 
 
@@ -220,4 +221,3 @@ Markdown: ![Qiita](https://qiita-image-store.s3.amazonaws.com/0/45617/015bd058-7
 # その他Escape
 
 バックスラッシュ[\]をMarkdownの前に挿入することで、Markdownをエスケープ(無効化)することができます。
-
