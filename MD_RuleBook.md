@@ -71,11 +71,6 @@ https://qiita.com/miriwo/items/11b717dfc501b5b4e286
 
 
 
-
-
-
-
-
 # Format Text - テキストの装飾
 
 ## Headers - 見出し
@@ -189,7 +184,6 @@ Markdown: ![Qiita](https://qiita-image-store.s3.amazonaws.com/0/45617/015bd058-7
 # テーブル記法
 
 入力補完を利用する場合
-
 3x2
 
 | Left align | Right align | Center align |
@@ -205,6 +199,21 @@ Markdown: ![Qiita](https://qiita-image-store.s3.amazonaws.com/0/45617/015bd058-7
 # 注釈
 
 本文中に[^1]や[^example]のように文字列を記述することで、脚注へのリンクを表現できます。注釈内容は、同じく本文中に [^1]: ... というように記述します1。
+
+本文中に[^1]や[^example]のように文字列を記述することで、
+脚注へのリンクを表現できます。
+
+注釈内容は、同じく本文中に [^1]: ... というように記述します1。
+
+
+記法: ほげほげ[^1]
+
+注釈先: [^2]
+
+これはてすとです[^1]
+
+[^1]: abcdeee
+[^2]:  abc"仁保の"
 
 # コンテンツの埋め込み
 
